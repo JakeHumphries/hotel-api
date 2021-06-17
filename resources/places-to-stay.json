@@ -1,0 +1,55 @@
+[
+  {
+    "title": "The Hoxton Portland",
+    "description": "With a stay at The Hoxton Portland, you'll be centrally located in Portland, just a 3-minute walk from Roseland Theater and 8 minutes by foot from Pioneer Courthouse Square.",
+    "address": "15 NW 4th Avenue, 97209, Portland, United States of America",
+    "starRating": 4,
+    "category": "Hotel"
+  },
+  {
+    "title": "Amberley Cottage",
+    "description": "Take in the views from a terrace and a garden and make use of amenities such as complimentary wireless Internet access. Additional features at this property include babysitting/childcare, a picnic area, and barbecue grills.",
+    "address": "Ridge Lane, TQ13 0DH, Newton Abbot, United Kingdom",
+    "category": "Cottage"
+  },
+  {
+    "title": "Warwick Denver",
+    "description": "A stay at Warwick Denver places you in the heart of Denver, within a 15-minute walk of Denver Art Museum and Colorado Convention Center.",
+    "address": "1776 Grant Street, 80203, Denver, United States of America",
+    "starRating": 3,
+    "category": "Hotel"
+  },
+  {
+    "title": "Omni Orlando Resort At Championsgate",
+    "description": "When you stay at Omni Orlando Resort at ChampionsGate in Four Corners, you'll be near the airport, within a 15-minute drive of Orlando Vineland Premium Outlets and ChampionsGate Golf Club.",
+    "address": "1500 Masters Blvd, 33896, Davenport, United States of America",
+    "starRating": 5,
+    "category": "Resort"
+  },
+  {
+    "title": "Seavista B&b",
+    "description": "Make yourself at home in one of the 7 individually decorated guestrooms. Complimentary wireless Internet access keeps you connected, and digital programming is available for your entertainment.",
+    "address": "Mawgan Porth, TR8 4AL, Newquay, United Kingdom",
+    "category": "BedAndBreakfast"
+  },
+  {
+    "title": "Kvosin Downtown Hotel",
+    "description": "With a stay at Kvosin Downtown Hotel, you'll be centrally located in Reykjavik, steps from Laugavegur and 3 minutes by foot from Reykjavik City Hall.",
+    "address": "Kirkjutorg 4, IS-101, Reykjavik, Iceland",
+    "starRating": 4,
+    "category": "Hotel"
+  },
+  {
+    "title": "Napoli Da Vivere Suites",
+    "description": "Make yourself at home in one of the 2 air-conditioned rooms featuring plasma televisions. Complimentary wireless Internet access is available to keep you connected. Bathrooms feature showers, complimentary toiletries, and bidets.",
+    "address": "Vico Lungo Trinità degli Spagnoli, 31, 80132, Naples, Italy",
+    "category": "Guesthouse"
+  },
+  {
+    "title": "L'auberge Del Mar",
+    "description": "Make yourself at home in one of the 121 guestrooms featuring iPod docking stations and LCD televisions. Your pillowtop bed comes with Egyptian cotton sheets.",
+    "address": "1540 Camino Del Mar, 92014, Del Mar, United States of America",
+    "starRating": 5,
+    "category": "Hotel"
+  }
+]
